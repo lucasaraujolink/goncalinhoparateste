@@ -21,7 +21,7 @@ const CATEGORIES: FileCategory[] = [
   'Geral'
 ];
 
-const ACCESS_PASSWORD = "iVYU-/m69hZjoTGqobWx";
+const ACCESS_PASSWORD = "ok";
 
 function App() {
   const [view, setView] = useState<ViewState>('chat');
